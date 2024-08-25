@@ -9,4 +9,4 @@ Just a college student learning about Fullstack
 
 ### Social
 
-- [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/cesar-casas-526472276/))
+- [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/cesar-casas-526472276/])
